@@ -1,0 +1,19 @@
+#!/bin/bash
+set -ex
+
+npm install -g npm
+
+npm install -g javascripting
+javascripting --version
+
+npm install -g learnyounode
+learnyounode --version
+
+npm install -g how-to-npm
+how-to-npm --version
+
+npm install -g scope-chains-closures
+scope-chains-closures --version
+
+npm install -g stream-adventure
+stream-adventure --version
